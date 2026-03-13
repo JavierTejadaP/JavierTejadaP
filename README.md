@@ -1,7 +1,7 @@
-![logo](supun-new.png)
+<p align="center"> <img src="githubFont.jpg" width="25% alt="javiertejada" /> 
 <img align="left" src="https://user-images.githubusercontent.com/65187002/144930161-2f783401-8d27-4fdf-a2f7-cc0ba32f1f1f.gif" width="21%" style="display:inline;"><img align="right" src="https://user-images.githubusercontent.com/65187002/144930161-2f783401-8d27-4fdf-a2f7-cc0ba32f1f1f.gif" width="21%" style="display:inline;">
-
-<h1 align="center">Hi 👋, I'm Javier Tejada</h1>
+</p> 	
+ <h1 align="center">Hi 👋, I'm Javier Tejada</h1>
 <h3 align="center">Student of computer engineering</h3>
 <p align="center">
 I am fascinated by how technology 🌐 has transformed the way businesses operate and how software can solve real-world problems; seeing the impact of web development inspired me to pursue software engineering early on, and my passion has only grown since then. I also love exploring new tech stacks 💻 and applying them to build practical and exciting projects 🛠️
@@ -118,10 +118,12 @@ I am fascinated by how technology 🌐 has transformed the way businesses operat
  <h3 align="left">Activity:</h3>
 
 ![JavierTejada's Graph](https://github-readme-activity-graph.vercel.app/graph?username=JavierTejadaP&custom_title=Javier's%20GitHub%20Activity%20Graph&bg_color=0D1117&color=7F3FBF&line=7F3FBF&point=7F3FBF&area_color=FFFFFF&title_color=FFFFFF&area=true)
-<br><br>
 
+<!-- ![Javier Tejada github stats](https://github-readme-stats.vercel.app/api?username=JavierTejadaP&show_icons=true)
+<br><br>
+-->
 <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%"> 
 
 <!-- <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%"> -->
 
-<img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>I love connecting with different people</b> so if you want to say <b>hi, I'll be happy to meet you more!</b> :)</em>
+<img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>I love connecting with different people</b> so if you want to say <b>hi, I'll be happy to meet you more!</b></em>
